@@ -6,17 +6,17 @@ multiplication = calculateSum.multiplicationV
 division = calculateSum.division
 
 # 1st test
-assert add == 18 , "1st TEST --> FAILED"
+assert add == 19 , "1st TEST --> FAILED"
 print("1st TEST --> PASSED")
 
 # 2nd test
-assert diff == 12 , "2nd TEST --> FAILED"
+assert diff == 11 , "2nd TEST --> FAILED"
 print("2nd TEST --> PASSED")
 
 # 3rd test
-assert multiplication == 75 , "3rd TEST --> FAILED"
+assert multiplication == 76 , "3rd TEST --> FAILED"
 print("3rd TEST --> PASSED")
 
 # 4th test
-assert division == 5, "4th TEST --> FAILED"
+assert division == 6, "4th TEST --> FAILED"
 print("4th TEST --> PASSED")
