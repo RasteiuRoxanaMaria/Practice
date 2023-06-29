@@ -3,7 +3,7 @@ import calculateSum
 add = calculateSum.addV
 diff = calculateSum.diffV
 multiplication = calculateSum.multiplicationV
-division = calculateSum.division
+division = calculateSum.divisionV
 
 # 1st test
 assert add == 18 , "1st TEST --> FAILED"
