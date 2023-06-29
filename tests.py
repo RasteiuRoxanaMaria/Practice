@@ -1,6 +1,6 @@
-import sum
+import calculateSum
 
-result = sum.sum
+result = calculateSum.sum
 
 assert result == 28
 print("First test is ok, sum == 28")
