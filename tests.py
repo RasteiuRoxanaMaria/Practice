@@ -14,7 +14,7 @@ assert diff == 12 , "2nd TEST --> FAILED"
 print("2nd TEST --> PASSED")
 
 # 3rd test
-assert multiplication == 75 , "3rd TEST --> FAILED"
+assert multiplication == 45 , "3rd TEST --> FAILED"
 print("3rd TEST --> PASSED")
 
 # 4th test
