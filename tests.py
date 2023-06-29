@@ -3,7 +3,7 @@ import calculateSum
 add = calculateSum.addV
 diff = calculateSum.diffV
 multiplication = calculateSum.multiplicationV
-division = calculateSum.division
+division = calculateSum.divisionV
 
 # 1st test
 assert add == 18 , "1st TEST --> FAILED"
@@ -18,5 +18,5 @@ assert multiplication == 45 , "3rd TEST --> FAILED"
 print("3rd TEST --> PASSED")
 
 # 4th test
-assert division == 5, "4th TEST --> FAILED"
+assert division == 5 , "4th TEST --> FAILED"
 print("4th TEST --> PASSED")
