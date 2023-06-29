@@ -1,5 +1,8 @@
-n1 = 21
-n2 = 7
-sum = n1 + n2
-assert sum == 28
-assert sum == 21
+import sum
+
+result = sum.sum
+
+assert result == 28
+print("First test is ok, sum == 28")
+
+assert result == 21
